@@ -20,7 +20,7 @@ This project  is for finding shortest path between 2 points using diferent algot
 * Finish first algorithm
 * Finish control panel
 
-## week 4: 
+### week 4: 
 * More algorithms!
 * Performance reports!
 * Host on gh-pages
